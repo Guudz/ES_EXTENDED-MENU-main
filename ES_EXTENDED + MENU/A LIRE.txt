@@ -1,0 +1,12 @@
+POUR MODIFIER L'IMAGE DES MENUS
+
+ESX_MENU_LIST :
+Ouvrir le dossier esx_menu_list / html / JS / app.js  
+( Il faut remplacer https://i.ibb.co/3hW6v8Q/astrocity.png par le lien de votre image. Taille de l'image pour le menu  431x96 px )
+
+ESX_MENU_DIALOG :
+Ouvrir le dossier esx_menu_dialog / html / JS / app.js
+( remplacer https://i.ibb.co/3hW6v8Q/astrocity.png par le lien de votre image. Taille de l'image pour le menu  431x96 px )
+
+
+Si vous avez besoin d'aide ou des questions, merci de me contacter sur Discord Alex39#4870 ou en commentaire sur ma chaine Youtube.
